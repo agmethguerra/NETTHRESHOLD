@@ -1,0 +1,12 @@
+load_value,latency_ms,notes
+10,21.0,Simulado
+20,24.2,Simulado
+30,26.5,Simulado
+40,29.8,Simulado
+50,34.0,Simulado
+60,40.1,Simulado
+70,47.9,Simulado
+80,60.2,Simulado
+90,80.5,Simulado
+100,119.8,Simulado
+110,238.0,Simulado
